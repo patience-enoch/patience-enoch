@@ -6,10 +6,10 @@
 Cybersecurity & Network Engineering Student, Linux Enthusiast, Builder of Light in Dark Systems
 
 ### What I'm focusing on right now
-- Learning offensive security techniques through hands-on labs  
-- Building a full cybersecurity + networking home lab environment  
-- Mastering Linux and the command line  
-- Creating real-world projects (IDOR exploit analysis, network labs, scripting)  
+Learning offensive security techniques through hands-on labs  
+Building a full cybersecurity + networking home lab environment  
+Mastering Linux and the command line  
+Creating real-world projects (IDOR exploit analysis, network labs, scripting)  
 
 ### Skills & Tools
 **Networking:** TCP/IP, routing fundamentals, VLANs, firewalls  
@@ -19,8 +19,8 @@ Cybersecurity & Network Engineering Student, Linux Enthusiast, Builder of Light 
 **Languages:** Bash, Python (beginner)
 
 ### Featured Projects
-- **IDOR Learning Project** — Hands-on exploitation walkthrough    
-- **BrainDump App** — Voice-based capture tool for busy moms
+**IDOR Learning Project** — Hands on exploitation walkthrough    
+**BrainDump App** — Voice based capture tool for busy moms
 
 ### Philosophy
 “Light in one hand. Linux in the other.”  
