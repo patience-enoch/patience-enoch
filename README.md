@@ -3,7 +3,7 @@
 </p>
 
 ### Hola, I'm Patience  
-Cybersecurity & Network Engineering Student • Linux Enthusiast • Builder of Light in Dark Systems
+Cybersecurity & Network Engineering Student, Linux Enthusiast, Builder of Light in Dark Systems
 
 ### What I'm focusing on right now
 - Learning offensive security techniques through hands-on labs  
